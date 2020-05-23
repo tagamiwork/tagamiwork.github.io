@@ -7,3 +7,6 @@ Webサイトの知識を身に着けて小銭を稼ぎたい
 - tagami
 - 名古屋
 - HTML/CSS,JS,VBA,Linux
+
+# favorite
+[ボカロ](https://www.youtube.com/watch?v=BQTCOpLWaPc)
